@@ -1,7 +1,0 @@
-streamlit
-pandas
-yfinance
-joblib
-matplotlib
-scikit-learn
-requests
