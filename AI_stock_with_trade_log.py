@@ -9,7 +9,7 @@ import os
 from datetime import datetime
 
 # 載入模型
-model = joblib.load("ai_model_3day_cloud_v2.pkl")
+model = joblib.load("ai_model_3day_cloud_v3.pkl")
 
 # 自動交易紀錄清單
 auto_trade_records = []
